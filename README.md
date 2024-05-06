@@ -18,7 +18,7 @@
 
 Skills: Python / Numpy / Pandas / Matplotlib / Seaborn / Scikit Learn / TensorFlow / RDBMS / AI / ML / DL / DS
 
-- 🌱 I’m currently learning more about Data 
+- 🌱 I’m currently learning about Data 
 - 👯 I’m looking to collaborate on Projects related to AI/ML/DL 
 - 📫 How to reach me: tasirdiwan@yahoo.com 
 
