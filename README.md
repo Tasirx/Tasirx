@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Tasir
 #### A student currently perusing BCA specialized in Artificial Intelligence
-![A student currently perusing BCA specialized in Artificial Intelligence](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Project OverviewOne-Pager Professional Docs Banner in Black White Sleek Monochrome Style](https://github.com/Tasirx/Tasirx/assets/93290750/1cc2e373-470b-4af0-9713-c9e9d7105ae2)
 
 👋 Hello there! I'm a student at Parul University pursuing a Bachelor's degree in Computer Applications (BCA) with a specialization in Artificial Intelligence. I have a keen interest in exploring the fascinating realms of Machine Learning, Deep Learning, and Data Science.
 
@@ -22,6 +22,4 @@ Skills: Python / Numpy / Pandas / Matplotlib / Seaborn / Scikit Learn / TensorFl
 - 👯 I’m looking to collaborate on Projects related to AI/ML/DL 
 - 📫 How to reach me: tasirdiwan@yahoo.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tasirdiwan//)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tasirdiwan//)
